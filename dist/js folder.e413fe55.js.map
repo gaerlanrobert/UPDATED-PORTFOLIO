@@ -1,0 +1,1 @@
+{"version":3,"sources":["js folder/index.js"],"names":["run","console","log"],"mappings":"AAAA,IAAMA,GAAG,GAAG,SAANA,GAAM,GAAM;AAChBC,EAAAA,OAAO,CAACC,GAAR,CAAY,cAAZ;AACD,CAFD","file":"js folder.e413fe55.js","sourceRoot":"..","sourcesContent":["const run = () => {\n  console.log(\"yo im runing\");\n};\n"]}
